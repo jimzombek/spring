@@ -1,0 +1,65 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.jmzombe</groupId>
+  <artifactId>licensing-service</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  
+  <name>jmzombe Licensing Service</name>
+  <description>Licensing Service</description>
+    
+  <properties>
+    <springBootStarterVersion>1.5.6.RELEASE</springBootStarterVersion>
+    <springBootStarterWebVersion>1.5.6.RELEASE</springBootStarterWebVersion>
+    <springBootStarterActuator>1.5.6.RELEASE</springBootStarterActuator>
+  </properties>
+     
+  <dependencies>
+    <!-- @SpringBootApplication -->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter</artifactId>
+      <version>${springBootStarterVersion}</version>
+    </dependency>
+    
+    <!-- @RestController, @RequestMapping, @PathVariable. etc.-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>${springBootStarterWebVersion}</version>
+     </dependency>
+    
+    <!-- Production Ready Metrics, Health and more -->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-actuator</artifactId>
+      <version>${springBootStarterActuator}</version>
+    </dependency>
+  </dependencies>
+  
+<!--   <scm> -->
+<!--     <developerConnection>scm:svn:https://svn.mycompany.com/repos/myapplication/trunk/mycomponent/</developerConnection> -->
+<!--     scm:git:https://github.com/path_to_repository -->
+<!--   </scm> -->
+  
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.6.2</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+      
+      <!-- Tells Maven to include Spring specific maven plugins for building and deploying Spring Boot applications -->
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+  
+</project>
