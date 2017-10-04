@@ -1,0 +1,4874 @@
+[
+  {
+    "team": "MON",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Carey Price"
+  },
+  {
+    "team": "ANA",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Jonathan Bernier"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Nathan Beaulieu"
+  },
+  {
+    "team": "COL",
+    "position": "Left Wing",
+    "jersey": 17,
+    "name": "Rene Bourque"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 13,
+    "name": "David Desharnais"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 20,
+    "name": "Lars Eller"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 74,
+    "name": "Alexei Emelin"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 27,
+    "name": "Alex Galchenyuk"
+  },
+  {
+    "team": "MON",
+    "position": "Right Wing",
+    "jersey": 11,
+    "name": "Brendan Gallagher"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 79,
+    "name": "Andrei Markov"
+  },
+  {
+    "team": "MON",
+    "position": "Left Wing",
+    "jersey": 67,
+    "name": "Max Pacioretty"
+  },
+  {
+    "team": "NAS",
+    "position": "Right Wing",
+    "jersey": 11,
+    "name": "P.A. Parenteau"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Tomas Plekanec"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 76,
+    "name": "P.K. Subban"
+  },
+  {
+    "team": "PHI",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Dale Weise"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 42,
+    "name": "Tyler Bozak"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 51,
+    "name": "Jake Gardiner"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 13,
+    "name": "Peter Holland"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 43,
+    "name": "Nazem Kadri"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 81,
+    "name": "Phil Kessel"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 47,
+    "name": "Leo Komarov"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 19,
+    "name": "Joffrey Lupul"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Dion Phaneuf"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 46,
+    "name": "Roman Polak"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Morgan Rielly"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": null,
+    "name": "Stephane Robidas"
+  },
+  {
+    "team": "TOR",
+    "position": "Left Wing",
+    "jersey": 25,
+    "name": "James van Riemsdyk"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 26,
+    "name": "Daniel Winnik"
+  },
+  {
+    "team": "PHI",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Steve Mason"
+  },
+  {
+    "team": "BOS",
+    "position": "Goalie",
+    "jersey": 40,
+    "name": "Tuukka Rask"
+  },
+  {
+    "team": "PHI",
+    "position": "Right Wing",
+    "jersey": 78,
+    "name": "Pierre-Edouard Bellemare"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Braydon Coburn"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Sean Couturier"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 15,
+    "name": "Michael Del Zotto"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 28,
+    "name": "Claude Giroux"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 47,
+    "name": "Andrew MacDonald"
+  },
+  {
+    "team": "PHI",
+    "position": "Left Wing",
+    "jersey": 12,
+    "name": "Michael Raffl"
+  },
+  {
+    "team": "PHI",
+    "position": "Right Wing",
+    "jersey": 24,
+    "name": "Matt Read"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Brayden Schenn"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Luke Schenn"
+  },
+  {
+    "team": "PHI",
+    "position": "Right Wing",
+    "jersey": 17,
+    "name": "Wayne Simmonds"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 32,
+    "name": "Mark Streit"
+  },
+  {
+    "team": "PHI",
+    "position": "Right Wing",
+    "jersey": 93,
+    "name": "Jakub Voracek"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 37,
+    "name": "Patrice Bergeron"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 33,
+    "name": "Zdeno Chara"
+  },
+  {
+    "team": "VAN",
+    "position": "Left Wing",
+    "jersey": 21,
+    "name": "Loui Eriksson"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Dougie Hamilton"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 22,
+    "name": "Chris Kelly"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 47,
+    "name": "Torey Krug"
+  },
+  {
+    "team": "EDM",
+    "position": "Left Wing",
+    "jersey": 27,
+    "name": "Milan Lucic"
+  },
+  {
+    "team": "BOS",
+    "position": "Left Wing",
+    "jersey": 63,
+    "name": "Brad Marchand"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 54,
+    "name": "Adam McQuaid"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 86,
+    "name": "Kevan Miller"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Dennis Seidenberg"
+  },
+  {
+    "team": "FLA",
+    "position": "Right Wing",
+    "jersey": 18,
+    "name": "Reilly Smith"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 34,
+    "name": "Carl Soderberg"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 51,
+    "name": "Ryan Spooner"
+  },
+  {
+    "team": "VAN",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Ryan Miller"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Kevin Bieksa"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 13,
+    "name": "Nick Bonino"
+  },
+  {
+    "team": "OTT",
+    "position": "Left Wing",
+    "jersey": 14,
+    "name": "Alexandre Burrows"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 23,
+    "name": "Alexander Edler"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Dan Hamhuis"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 36,
+    "name": "Jannik Hansen"
+  },
+  {
+    "team": "EDM",
+    "position": "Right Wing",
+    "jersey": 44,
+    "name": "Zack Kassian"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Shawn Matthias"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Brad Richardson"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Luca Sbisa"
+  },
+  {
+    "team": "VAN",
+    "position": "Left Wing",
+    "jersey": 22,
+    "name": "Daniel Sedin"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 33,
+    "name": "Henrik Sedin"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Christopher Tanev"
+  },
+  {
+    "team": "ARI",
+    "position": "Right Wing",
+    "jersey": 17,
+    "name": "Radim Vrbata"
+  },
+  {
+    "team": "CGY",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Mikael Backlund"
+  },
+  {
+    "team": "CGY",
+    "position": "Left Wing",
+    "jersey": 17,
+    "name": "Lance Bouma"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "T.J. Brodie"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 41,
+    "name": "Paul Byron"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 8,
+    "name": "Joe Colborne"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 29,
+    "name": "Deryk Engelland"
+  },
+  {
+    "team": "CGY",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Johnny Gaudreau"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Mark Giordano"
+  },
+  {
+    "team": "DAL",
+    "position": "Left Wing",
+    "jersey": 22,
+    "name": "Jiri Hudler"
+  },
+  {
+    "team": "CGY",
+    "position": "Center",
+    "jersey": 23,
+    "name": "Sean Monahan"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Kris Russell"
+  },
+  {
+    "team": "CGY",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Matt Stajan"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Dennis Wideman"
+  },
+  {
+    "team": "DAL",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Antti Niemi"
+  },
+  {
+    "team": "SJ",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Martin Jones"
+  },
+  {
+    "team": "LA",
+    "position": "Goalie",
+    "jersey": 32,
+    "name": "Jonathan Quick"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 61,
+    "name": "Justin Braun"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 88,
+    "name": "Brent Burns"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 39,
+    "name": "Logan Couture"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Jason Demers"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Andrew Desjardins"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 48,
+    "name": "Tomas Hertl"
+  },
+  {
+    "team": "SJ",
+    "position": "Left Wing",
+    "jersey": 12,
+    "name": "Patrick Marleau"
+  },
+  {
+    "team": "COL",
+    "position": "Left Wing",
+    "jersey": 83,
+    "name": "Matt Nieto"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 8,
+    "name": "Joe Pavelski"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Joe Thornton"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 50,
+    "name": "Chris Tierney"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Marc-Edouard Vlasic"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 57,
+    "name": "Tommy Wingels"
+  },
+  {
+    "team": "LA",
+    "position": "Right Wing",
+    "jersey": 23,
+    "name": "Dustin Brown"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 77,
+    "name": "Jeff Carter"
+  },
+  {
+    "team": "LA",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Kyle Clifford"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Drew Doughty"
+  },
+  {
+    "team": "LA",
+    "position": "Right Wing",
+    "jersey": 12,
+    "name": "Marian Gaborik"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Matt Greene"
+  },
+  {
+    "team": "MON",
+    "position": "Left Wing",
+    "jersey": 21,
+    "name": "Dwight King"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Anze Kopitar"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 22,
+    "name": "Trevor Lewis"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Alec Martinez"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Brayden McNabb"
+  },
+  {
+    "team": "LA",
+    "position": "Left Wing",
+    "jersey": 70,
+    "name": "Tanner Pearson"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 73,
+    "name": "Tyler Toffoli"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 14,
+    "name": "Justin Williams"
+  },
+  {
+    "team": "STL",
+    "position": "Goalie",
+    "jersey": 40,
+    "name": "Carter Hutton"
+  },
+  {
+    "team": "NAS",
+    "position": "Goalie",
+    "jersey": 39,
+    "name": "Marek Mazanec"
+  },
+  {
+    "team": "FLA",
+    "position": "Left Wing",
+    "jersey": 36,
+    "name": "Jussi Jokinen"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Alex Petrovic"
+  },
+  {
+    "team": "NYR",
+    "position": "Center",
+    "jersey": 73,
+    "name": "Brandon Pirri"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Derek MacKenzie"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 43,
+    "name": "Steven Kampfer"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 33,
+    "name": "Greg McKegg"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 22,
+    "name": "Rocco Grimaldi"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 48,
+    "name": "Logan Shaw"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Ryan Ellis"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 9,
+    "name": "Filip Forsberg"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 59,
+    "name": "Roman Josi"
+  },
+  {
+    "team": "NAS",
+    "position": "Left Wing",
+    "jersey": 51,
+    "name": "Austin Watson"
+  },
+  {
+    "team": "NAS",
+    "position": "Right Wing",
+    "jersey": 20,
+    "name": "Miikka Salomaki"
+  },
+  {
+    "team": "NAS",
+    "position": "Left Wing",
+    "jersey": 46,
+    "name": "Pontus Aberg"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Colton Sissons"
+  },
+  {
+    "team": "NAS",
+    "position": "Left Wing",
+    "jersey": 50,
+    "name": "Vladislav Kamenev"
+  },
+  {
+    "team": "NAS",
+    "position": "Left Wing",
+    "jersey": 18,
+    "name": "James Neal"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Anthony Bitetto"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Victor Bartley"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Craig Smith"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 56,
+    "name": "Kevin Fiala"
+  },
+  {
+    "team": "NJ",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Keith Kinkaid"
+  },
+  {
+    "team": "COL",
+    "position": "Goalie",
+    "jersey": 40,
+    "name": "Jeremy Smith"
+  },
+  {
+    "team": "NJ",
+    "position": "Right Wing",
+    "jersey": 21,
+    "name": "Kyle Palmieri"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Damon Severson"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 52,
+    "name": "Matt Irwin"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Colin Miller"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 10,
+    "name": "Brett Connolly"
+  },
+  {
+    "team": "MON",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Al Montoya"
+  },
+  {
+    "team": "FLA",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Sam Brittain"
+  },
+  {
+    "team": "NAS",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Pekka Rinne"
+  },
+  {
+    "team": "NAS",
+    "position": "Goalie",
+    "jersey": 74,
+    "name": "Juuse Saros"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 27,
+    "name": "Nick Bjugstad"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Vincent Trocheck"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 19,
+    "name": "Michael Matheson"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Aleksander Barkov"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 67,
+    "name": "Lawson Crouse"
+  },
+  {
+    "team": "FLA",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Shawn Thornton"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 24,
+    "name": "Cameron Gaunce"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 77,
+    "name": "Dmitry Kulikov"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Erik Gudbranson"
+  },
+  {
+    "team": "PIT",
+    "position": "Left Wing",
+    "jersey": 19,
+    "name": "Garrett Wilson"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Aaron Ekblad"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 12,
+    "name": "Mike Fisher"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Calle Jarnkrok"
+  },
+  {
+    "team": "NAS",
+    "position": "Right Wing",
+    "jersey": 38,
+    "name": "Viktor Arvidsson"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Cody Bass"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 33,
+    "name": "Colin Wilson"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 14,
+    "name": "Mattias Ekholm"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Seth Jones"
+  },
+  {
+    "team": "PHI",
+    "position": "Goalie",
+    "jersey": 41,
+    "name": "Anthony Stolarz"
+  },
+  {
+    "team": "NYI",
+    "position": "Goalie",
+    "jersey": 41,
+    "name": "Jaroslav Halak"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 25,
+    "name": "Nick Cousins"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Radko Gudas"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 53,
+    "name": "Shayne Gostisbehere"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 48,
+    "name": "Robert Hagg"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 91,
+    "name": "John Tavares"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 27,
+    "name": "Anders Lee"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Johnny Boychuk"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 84,
+    "name": "Mikhail Grabovski"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 12,
+    "name": "Josh Bailey"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 86,
+    "name": "Nikolay Kulemin"
+  },
+  {
+    "team": "NYI",
+    "position": "Right Wing",
+    "jersey": 15,
+    "name": "Cal Clutterbuck"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 14,
+    "name": "Thomas Hickey"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Nick Leddy"
+  },
+  {
+    "team": "TOR",
+    "position": "Left Wing",
+    "jersey": 15,
+    "name": "Matt Martin"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 50,
+    "name": "Adam Pelech"
+  },
+  {
+    "team": "NJ",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Cory Schneider"
+  },
+  {
+    "team": "NYR",
+    "position": "Goalie",
+    "jersey": 45,
+    "name": "Magnus Hellberg"
+  },
+  {
+    "team": "NYR",
+    "position": "Goalie",
+    "jersey": 32,
+    "name": "Antti Raanta"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Jordin Tootoo"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Andy Greene"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "John Moore"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Adam Larsson"
+  },
+  {
+    "team": "NJ",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Michael Cammalleri"
+  },
+  {
+    "team": "NJ",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Travis Zajac"
+  },
+  {
+    "team": "NYI",
+    "position": "Right Wing",
+    "jersey": 24,
+    "name": "Stephen Gionta"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Kevin Klein"
+  },
+  {
+    "team": "VAN",
+    "position": "Right Wing",
+    "jersey": 46,
+    "name": "Jayson Megna"
+  },
+  {
+    "team": "OTT",
+    "position": "Left Wing",
+    "jersey": 24,
+    "name": "Viktor Stalberg"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 20,
+    "name": "Chris Kreider"
+  },
+  {
+    "team": "NYR",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Derek Stepan"
+  },
+  {
+    "team": "NYR",
+    "position": "Center",
+    "jersey": 24,
+    "name": "Oscar Lindberg"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 76,
+    "name": "Brady Skjei"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 28,
+    "name": "Dominic Moore"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Keith Yandle"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 15,
+    "name": "Tanner Glass"
+  },
+  {
+    "team": "NYR",
+    "position": "Right Wing",
+    "jersey": 19,
+    "name": "Jesper Fast"
+  },
+  {
+    "team": "NYI",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Thomas Greiss"
+  },
+  {
+    "team": "PHI",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Michal Neuvirth"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Alan Quine"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 72,
+    "name": "Anthony Beauvillier"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 76,
+    "name": "Chris VandeVelde"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 23,
+    "name": "Brandon Manning"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Travis Konecny"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Ryan White"
+  },
+  {
+    "team": "CAR",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Eddie Lack"
+  },
+  {
+    "team": "WAS",
+    "position": "Goalie",
+    "jersey": 70,
+    "name": "Braden Holtby"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 65,
+    "name": "Ron Hainsey"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 12,
+    "name": "Eric Staal"
+  },
+  {
+    "team": "CGY",
+    "position": "Right Wing",
+    "jersey": 10,
+    "name": "Kris Versteeg"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Jordan Staal"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 20,
+    "name": "Riley Nash"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Ryan Murphy"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 22,
+    "name": "Brett Pesce"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 61,
+    "name": "Sergey Tolchinsky"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 33,
+    "name": "Derek Ryan"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 43,
+    "name": "Tom Wilson"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 25,
+    "name": "Jason Chimera"
+  },
+  {
+    "team": "WAS",
+    "position": "Left Wing",
+    "jersey": 8,
+    "name": "Alex Ovechkin"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 77,
+    "name": "T.J. Oshie"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Matt Niskanen"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Karl Alzner"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 92,
+    "name": "Evgeny Kuznetsov"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 9,
+    "name": "Dmitry Orlov"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Connor Carrick"
+  },
+  {
+    "team": "PIT",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Tristan Jarry"
+  },
+  {
+    "team": "CBJ",
+    "position": "Goalie",
+    "jersey": 70,
+    "name": "Joonas Korpisalo"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 7,
+    "name": "Matt Cullen"
+  },
+  {
+    "team": "PIT",
+    "position": "Left Wing",
+    "jersey": 25,
+    "name": "Tom Sestito"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 57,
+    "name": "David Perron"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 12,
+    "name": "Ben Lovejoy"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "David Warsofsky"
+  },
+  {
+    "team": "NJ",
+    "position": "Right Wing",
+    "jersey": 8,
+    "name": "Beau Bennett"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 45,
+    "name": "Josh Archibald"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 23,
+    "name": "Scott Wilson"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 40,
+    "name": "Oskar Sundqvist"
+  },
+  {
+    "team": "PIT",
+    "position": "Left Wing",
+    "jersey": 43,
+    "name": "Conor Sheary"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 43,
+    "name": "Scott Hartnell"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 40,
+    "name": "Jared Boll"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Kevin Connauton"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 58,
+    "name": "David Savard"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 45,
+    "name": "Michael Chaput"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 47,
+    "name": "Dalton Prout"
+  },
+  {
+    "team": "CBJ",
+    "position": "Right Wing",
+    "jersey": 13,
+    "name": "Cam Atkinson"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 25,
+    "name": "William Karlsson"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Ryan Murray"
+  },
+  {
+    "team": "CBJ",
+    "position": "Right Wing",
+    "jersey": 34,
+    "name": "Josh Anderson"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Alexander Wennberg"
+  },
+  {
+    "team": "CBJ",
+    "position": "Right Wing",
+    "jersey": 28,
+    "name": "Oliver Bjorkstrand"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 22,
+    "name": "Sonny Milano"
+  },
+  {
+    "team": "FLA",
+    "position": "Goalie",
+    "jersey": 34,
+    "name": "James Reimer"
+  },
+  {
+    "team": "OTT",
+    "position": "Goalie",
+    "jersey": 41,
+    "name": "Craig Anderson"
+  },
+  {
+    "team": "OTT",
+    "position": "Goalie",
+    "jersey": 29,
+    "name": "Matthew O'Connor"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Matt Hunwick"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Zach Hyman"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 54,
+    "name": "Scott Harrington"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 28,
+    "name": "Kasperi Kapanen"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 65,
+    "name": "Erik Karlsson"
+  },
+  {
+    "team": "OTT",
+    "position": "Right Wing",
+    "jersey": 25,
+    "name": "Chris Neil"
+  },
+  {
+    "team": "OTT",
+    "position": "Right Wing",
+    "jersey": 9,
+    "name": "Bobby Ryan"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Shane Prince"
+  },
+  {
+    "team": "OTT",
+    "position": "Left Wing",
+    "jersey": 16,
+    "name": "Clarke MacArthur"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 7,
+    "name": "Kyle Turris"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 33,
+    "name": "Fredrik Claesson"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Ryan Dzingel"
+  },
+  {
+    "team": "OTT",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Andrew Hammond"
+  },
+  {
+    "team": "OTT",
+    "position": "Left Wing",
+    "jersey": 68,
+    "name": "Mike Hoffman"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Patrick Wiercioch"
+  },
+  {
+    "team": "NYR",
+    "position": "Center",
+    "jersey": 93,
+    "name": "Mika Zibanejad"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Zack Smith"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 74,
+    "name": "Mark Borowiecki"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 12,
+    "name": "Matt Puempel"
+  },
+  {
+    "team": "CGY",
+    "position": "Right Wing",
+    "jersey": 39,
+    "name": "Alex Chiasson"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Cody Ceci"
+  },
+  {
+    "team": "OTT",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Nick Paul"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 67,
+    "name": "Ben Harpur"
+  },
+  {
+    "team": "NYR",
+    "position": "Right Wing",
+    "jersey": 40,
+    "name": "Michael Grabner"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 52,
+    "name": "Martin Marincin"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 29,
+    "name": "William Nylander"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 14,
+    "name": "Richard Panik"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 74,
+    "name": "Sam Carrick"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 12,
+    "name": "Connor Brown"
+  },
+  {
+    "team": "CGY",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Chad Johnson"
+  },
+  {
+    "team": "MIN",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Darcy Kuemper"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Jack Eichel"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Cody Franson"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 26,
+    "name": "Matt Moulson"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 82,
+    "name": "Marcus Foligno"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 22,
+    "name": "Johan Larsson"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 44,
+    "name": "Nicolas Deslauriers"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 28,
+    "name": "Zemgus Girgensons"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 13,
+    "name": "Mark Pysyk"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 29,
+    "name": "Jake McCabe"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 48,
+    "name": "William Carrier"
+  },
+  {
+    "team": "MIN",
+    "position": "Left Wing",
+    "jersey": 11,
+    "name": "Zach Parise"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 64,
+    "name": "Mikael Granlund"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 20,
+    "name": "Ryan Suter"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 46,
+    "name": "Jared Spurgeon"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 9,
+    "name": "Mikko Koivu"
+  },
+  {
+    "team": "MIN",
+    "position": "Right Wing",
+    "jersey": 29,
+    "name": "Jason Pominville"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 39,
+    "name": "Nate Prosser"
+  },
+  {
+    "team": "MIN",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Nino Niederreiter"
+  },
+  {
+    "team": "MIN",
+    "position": "Left Wing",
+    "jersey": 16,
+    "name": "Jason Zucker"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 25,
+    "name": "Jonas Brodin"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Christian Folin"
+  },
+  {
+    "team": "BUF",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Anders Nilsson"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 23,
+    "name": "Matt Hendricks"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 29,
+    "name": "Lauri Korpikoski"
+  },
+  {
+    "team": "EDM",
+    "position": "Left Wing",
+    "jersey": 67,
+    "name": "Benoit Pouliot"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 55,
+    "name": "Mark Letestu"
+  },
+  {
+    "team": "EDM",
+    "position": "Right Wing",
+    "jersey": 14,
+    "name": "Jordan Eberle"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 93,
+    "name": "Ryan Nugent-Hopkins"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Justin Schultz"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 62,
+    "name": "Eric Gryba"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 77,
+    "name": "Oscar Klefbom"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Griffin Reinhart"
+  },
+  {
+    "team": "EDM",
+    "position": "Left Wing",
+    "jersey": 54,
+    "name": "Jujhar Khaira"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 84,
+    "name": "Joey LaLeggia"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 25,
+    "name": "Darnell Nurse"
+  },
+  {
+    "team": "EDM",
+    "position": "Left Wing",
+    "jersey": 42,
+    "name": "Anton Slepyshev"
+  },
+  {
+    "team": "CGY",
+    "position": "Right Wing",
+    "jersey": 67,
+    "name": "Michael Frolik"
+  },
+  {
+    "team": "CGY",
+    "position": "Left Wing",
+    "jersey": 79,
+    "name": "Micheal Ferland"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 42,
+    "name": "Drew Shore"
+  },
+  {
+    "team": "CGY",
+    "position": "Center",
+    "jersey": 93,
+    "name": "Sam Bennett"
+  },
+  {
+    "team": "EDM",
+    "position": "Goalie",
+    "jersey": 33,
+    "name": "Cam Talbot"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 60,
+    "name": "Markus Granlund"
+  },
+  {
+    "team": "STL",
+    "position": "Right Wing",
+    "jersey": 64,
+    "name": "Nail Yakupov"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Andrej Sekera"
+  },
+  {
+    "team": "NYI",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Jean-Francois Berube"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Nick Shore"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 40,
+    "name": "Jordan Weal"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 10,
+    "name": "Anthony Duclair"
+  },
+  {
+    "team": "VAN",
+    "position": "Goalie",
+    "jersey": 25,
+    "name": "Jacob Markstrom"
+  },
+  {
+    "team": "DAL",
+    "position": "Right Wing",
+    "jersey": 27,
+    "name": "Adam Cracknell"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Matt Bartkowski"
+  },
+  {
+    "team": "WAS",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Philipp Grubauer"
+  },
+  {
+    "team": "BOS",
+    "position": "Goalie",
+    "jersey": 70,
+    "name": "Malcolm Subban"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 83,
+    "name": "Jay Beagle"
+  },
+  {
+    "team": "WAS",
+    "position": "Left Wing",
+    "jersey": 65,
+    "name": "Andre Burakovsky"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 28,
+    "name": "Paul Carey"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 74,
+    "name": "John Carlson"
+  },
+  {
+    "team": "WAS",
+    "position": "Right Wing",
+    "jersey": 76,
+    "name": "Garrett Mitchell"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 88,
+    "name": "Nate Schmidt"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Chandler Stephenson"
+  },
+  {
+    "team": "BOS",
+    "position": "Left Wing",
+    "jersey": 39,
+    "name": "Matt Beleskey"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 46,
+    "name": "David Krejci"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 45,
+    "name": "Joe Morrow"
+  },
+  {
+    "team": "BOS",
+    "position": "Left Wing",
+    "jersey": 88,
+    "name": "David Pastrnak"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 72,
+    "name": "Frank Vatrano"
+  },
+  {
+    "team": "NYR",
+    "position": "Right Wing",
+    "jersey": 13,
+    "name": "Kevin Hayes"
+  },
+  {
+    "team": "NYR",
+    "position": "Center",
+    "jersey": 10,
+    "name": "J.T. Miller"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 89,
+    "name": "Sam Gagner"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 9,
+    "name": "Ivan Provorov"
+  },
+  {
+    "team": "PHI",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Nick Schultz"
+  },
+  {
+    "team": "CAR",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Cam Ward"
+  },
+  {
+    "team": "PIT",
+    "position": "Goalie",
+    "jersey": 29,
+    "name": "Marc-Andre Fleury"
+  },
+  {
+    "team": "PIT",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Matt Murray"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Justin Faulk"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Noah Hanifin"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Elias Lindholm"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 23,
+    "name": "Brock McGinn"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 42,
+    "name": "Joakim Nordstrom"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 49,
+    "name": "Victor Rask"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 53,
+    "name": "Jeff Skinner"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 74,
+    "name": "Jaccob Slavin"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Adam Clendening"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Ian Cole"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 87,
+    "name": "Sidney Crosby"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 39,
+    "name": "Jean-Sebastien Dea"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Brian Dumoulin"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 72,
+    "name": "Patric Hornqvist"
+  },
+  {
+    "team": "PIT",
+    "position": "Left Wing",
+    "jersey": 14,
+    "name": "Chris Kunitz"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 58,
+    "name": "Kris Letang"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Olli Maatta"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 71,
+    "name": "Evgeni Malkin"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Kevin Porter"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 41,
+    "name": "Daniel Sprong"
+  },
+  {
+    "team": "STL",
+    "position": "Goalie",
+    "jersey": 34,
+    "name": "Jake Allen"
+  },
+  {
+    "team": "CBJ",
+    "position": "Goalie",
+    "jersey": 72,
+    "name": "Sergei Bobrovsky"
+  },
+  {
+    "team": "CBJ",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Anton Forsberg"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 28,
+    "name": "Kyle Brodziak"
+  },
+  {
+    "team": "CGY",
+    "position": "Right Wing",
+    "jersey": 36,
+    "name": "Troy Brouwer"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Joel Edmundson"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Carl Gunnarsson"
+  },
+  {
+    "team": "STL",
+    "position": "Right Wing",
+    "jersey": 23,
+    "name": "Dmitrij Jaskin"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 56,
+    "name": "Magnus Paajarvi"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 43,
+    "name": "Jordan Schmaltz"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 22,
+    "name": "Kevin Shattenkirk"
+  },
+  {
+    "team": "STL",
+    "position": "Right Wing",
+    "jersey": 10,
+    "name": "Scottie Upshall"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 11,
+    "name": "Matt Calvert"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 71,
+    "name": "Nick Foligno"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 92,
+    "name": "Ryan Johansen"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Jack Johnson"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 51,
+    "name": "Fedor Tyutin"
+  },
+  {
+    "team": "TOR",
+    "position": "Left Wing",
+    "jersey": 32,
+    "name": "Josh Leivo"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 26,
+    "name": "Nikita Soshnikov"
+  },
+  {
+    "team": "COL",
+    "position": "Right Wing",
+    "jersey": 10,
+    "name": "Sven Andrighetto"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 45,
+    "name": "Mark Barberio"
+  },
+  {
+    "team": "MON",
+    "position": "Left Wing",
+    "jersey": 43,
+    "name": "Daniel Carr"
+  },
+  {
+    "team": "MON",
+    "position": "Right Wing",
+    "jersey": 34,
+    "name": "Michael McCarron"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Torrey Mitchell"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 29,
+    "name": "Greg Pateryn"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 26,
+    "name": "Jeff Petry"
+  },
+  {
+    "team": "NJ",
+    "position": "Right Wing",
+    "jersey": 25,
+    "name": "Devante Smith-Pelly"
+  },
+  {
+    "team": "TB",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Erik Condra"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 77,
+    "name": "Anthony DeAngelo"
+  },
+  {
+    "team": "TB",
+    "position": "Left Wing",
+    "jersey": 27,
+    "name": "Jonathan Drouin"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 51,
+    "name": "Valtteri Filppula"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 77,
+    "name": "Victor Hedman"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Alex Killorn"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 13,
+    "name": "Cedric Paquette"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Brayden Point"
+  },
+  {
+    "team": "FLA",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Roberto Luongo"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 12,
+    "name": "Radek Faksa"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 13,
+    "name": "Mattias Janmark"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 23,
+    "name": "Jyrki Jokipakka"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "John Klingberg"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 23,
+    "name": "Esa Lindell"
+  },
+  {
+    "team": "DAL",
+    "position": "Left Wing",
+    "jersey": 11,
+    "name": "Curtis McKenzie"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Jamie Oleksiak"
+  },
+  {
+    "team": "DAL",
+    "position": "Left Wing",
+    "jersey": 21,
+    "name": "Antoine Roussel"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 7,
+    "name": "Colton Sceviour"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 91,
+    "name": "Tyler Seguin"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Devin Shore"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 51,
+    "name": "Brian Campbell"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 11,
+    "name": "Jonathan Huberdeau"
+  },
+  {
+    "team": "FLA",
+    "position": "Right Wing",
+    "jersey": 68,
+    "name": "Jaromir Jagr"
+  },
+  {
+    "team": "TOR",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Curtis McElhinney"
+  },
+  {
+    "team": "CGY",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Brian Elliott"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Brandon Dubinsky"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 41,
+    "name": "Justin Falk"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 18,
+    "name": "Cody Goloubef"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 38,
+    "name": "Boone Jenner"
+  },
+  {
+    "team": "CBJ",
+    "position": "Center",
+    "jersey": 45,
+    "name": "Lukas Sedlak"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 42,
+    "name": "David Backes"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 49,
+    "name": "Ivan Barbashev"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 19,
+    "name": "Jay Bouwmeester"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 25,
+    "name": "Chris Butler"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Robby Fabbri"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 92,
+    "name": "Steve Ott"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Colton Parayko"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Alex Pietrangelo"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 17,
+    "name": "Jaden Schwartz"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 26,
+    "name": "Paul Stastny"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 20,
+    "name": "Alexander Steen"
+  },
+  {
+    "team": "STL",
+    "position": "Right Wing",
+    "jersey": 91,
+    "name": "Vladimir Tarasenko"
+  },
+  {
+    "team": "WPG",
+    "position": "Goalie",
+    "jersey": 37,
+    "name": "Connor Hellebuyck"
+  },
+  {
+    "team": "WPG",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Ondrej Pavelec"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 3,
+    "name": "Charlie Coyle"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 24,
+    "name": "Matt Dumba"
+  },
+  {
+    "team": "MIN",
+    "position": "Left Wing",
+    "jersey": 56,
+    "name": "Erik Haula"
+  },
+  {
+    "team": "MIN",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Marco Scandella"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Jordan Schroeder"
+  },
+  {
+    "team": "FLA",
+    "position": "Left Wing",
+    "jersey": 26,
+    "name": "Thomas Vanek"
+  },
+  {
+    "team": "WPG",
+    "position": "Right Wing",
+    "jersey": 40,
+    "name": "Joel Armia"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 91,
+    "name": "Alex Burmistrov"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 33,
+    "name": "Dustin Byfuglien"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 9,
+    "name": "Andrew Copp"
+  },
+  {
+    "team": "WPG",
+    "position": "Left Wing",
+    "jersey": 27,
+    "name": "Nikolaj Ehlers"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 39,
+    "name": "Toby Enstrom"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Josh Morrissey"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 85,
+    "name": "Mathieu Perreault"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Nic Petan"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 55,
+    "name": "Mark Scheifele"
+  },
+  {
+    "team": "BOS",
+    "position": "Right Wing",
+    "jersey": 19,
+    "name": "Drew Stafford"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Mark Stuart"
+  },
+  {
+    "team": "WPG",
+    "position": "Right Wing",
+    "jersey": 22,
+    "name": "Chris Thorburn"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Jacob Trouba"
+  },
+  {
+    "team": "WPG",
+    "position": "Right Wing",
+    "jersey": 26,
+    "name": "Blake Wheeler"
+  },
+  {
+    "team": "DET",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Jimmy Howard"
+  },
+  {
+    "team": "CHI",
+    "position": "Goalie",
+    "jersey": 33,
+    "name": "Scott Darling"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 72,
+    "name": "Andreas Athanasiou"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 41,
+    "name": "Luke Glendening"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Nick Jensen"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 71,
+    "name": "Dylan Larkin"
+  },
+  {
+    "team": "DET",
+    "position": "Right Wing",
+    "jersey": 39,
+    "name": "Anthony Mantha"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Alexey Marchenko"
+  },
+  {
+    "team": "DET",
+    "position": "Left Wing",
+    "jersey": 20,
+    "name": "Drew Miller"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 12,
+    "name": "Teemu Pulkkinen"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Riley Sheahan"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 42,
+    "name": "Brendan Smith"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 48,
+    "name": "Ryan Sproul"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Artem Anisimov"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 39,
+    "name": "Kyle Baun"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Trevor Daley"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 56,
+    "name": "Marko Dano"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 81,
+    "name": "Marian Hossa"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 88,
+    "name": "Patrick Kane"
+  },
+  {
+    "team": "CHI",
+    "position": "Left Wing",
+    "jersey": 70,
+    "name": "Dennis Rasmussen"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Brent Seabrook"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 86,
+    "name": "Teuvo Teravainen"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Jonathan Toews"
+  },
+  {
+    "team": "ANA",
+    "position": "Goalie",
+    "jersey": 36,
+    "name": "John Gibson"
+  },
+  {
+    "team": "COL",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Semyon Varlamov"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Simon Despres"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 42,
+    "name": "Josh Manson"
+  },
+  {
+    "team": "EDM",
+    "position": "Left Wing",
+    "jersey": 19,
+    "name": "Patrick Maroon"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 75,
+    "name": "Jaycob Megna"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 71,
+    "name": "Brandon Montour"
+  },
+  {
+    "team": "NJ",
+    "position": "Right Wing",
+    "jersey": 23,
+    "name": "Stefan Noesen"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 67,
+    "name": "Rickard Rakell"
+  },
+  {
+    "team": "ANA",
+    "position": "Left Wing",
+    "jersey": 37,
+    "name": "Nick Ritchie"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 53,
+    "name": "Shea Theodore"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 21,
+    "name": "Chris Wagner"
+  },
+  {
+    "team": "NAS",
+    "position": "Right Wing",
+    "jersey": 26,
+    "name": "Harry Zolnierczyk"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Tyson Barrie"
+  },
+  {
+    "team": "COL",
+    "position": "Left Wing",
+    "jersey": 14,
+    "name": "Blake Comeau"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 25,
+    "name": "Mikhail Grigorenko"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 22,
+    "name": "Nick Holden"
+  },
+  {
+    "team": "COL",
+    "position": "Left Wing",
+    "jersey": 92,
+    "name": "Gabriel Landeskog"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 29,
+    "name": "Nathan MacKinnon"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 37,
+    "name": "Andreas Martinsen"
+  },
+  {
+    "team": "COL",
+    "position": "Right Wing",
+    "jersey": 96,
+    "name": "Mikko Rantanen"
+  },
+  {
+    "team": "VAN",
+    "position": "Right Wing",
+    "jersey": 9,
+    "name": "Jack Skille"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 16,
+    "name": "Nikita Zadorov"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 27,
+    "name": "Joonas Donskoi"
+  },
+  {
+    "team": "SJ",
+    "position": "Left Wing",
+    "jersey": 23,
+    "name": "Barclay Goodrow"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 38,
+    "name": "Micheal Haley"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Paul Martin"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 18,
+    "name": "Ben Smith"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 26,
+    "name": "Matt Tennyson"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 42,
+    "name": "Joel Ward"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 20,
+    "name": "Frank Corrado"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 38,
+    "name": "Taylor Fedun"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Ben Hutton"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Yannick Weber"
+  },
+  {
+    "team": "ARI",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Louis Domingue"
+  },
+  {
+    "team": "TB",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Peter Budaj"
+  },
+  {
+    "team": "ANA",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Jhonas Enroth"
+  },
+  {
+    "team": "SJ",
+    "position": "Left Wing",
+    "jersey": 89,
+    "name": "Mikkel Boedker"
+  },
+  {
+    "team": "CAR",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Klas Dahlbeck"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Max Domi"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 18,
+    "name": "Christian Dvorak"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 23,
+    "name": "Oliver Ekman-Larsson"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Martin Hanzal"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 48,
+    "name": "Jordan Martinook"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 26,
+    "name": "Michael Stone"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Andy Andreoff"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 24,
+    "name": "Derek Forbort"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Jake Muzzin"
+  },
+  {
+    "team": "BUF",
+    "position": "Goalie",
+    "jersey": 40,
+    "name": "Robin Lehner"
+  },
+  {
+    "team": "CGY",
+    "position": "Right Wing",
+    "jersey": 20,
+    "name": "Curtis Lazar"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 44,
+    "name": "Jean-Gabriel Pageau"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Chris Wideman"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 63,
+    "name": "Tyler Ennis"
+  },
+  {
+    "team": "BUF",
+    "position": "Right Wing",
+    "jersey": 12,
+    "name": "Brian Gionta"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Josh Gorges"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 9,
+    "name": "Evander Kane"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 88,
+    "name": "Jamie McGinn"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 90,
+    "name": "Ryan O'Reilly"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 23,
+    "name": "Sam Reinhart"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Chad Ruhwedel"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 24,
+    "name": "Reid Boucher"
+  },
+  {
+    "team": "NJ",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Adam Henrique"
+  },
+  {
+    "team": "NJ",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Jacob Josefson"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Jon Merrill"
+  },
+  {
+    "team": "CAR",
+    "position": "Right Wing",
+    "jersey": 21,
+    "name": "Lee Stempniak"
+  },
+  {
+    "team": "NJ",
+    "position": "Center",
+    "jersey": 37,
+    "name": "Pavel Zacha"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Calvin de Haan"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Travis Hamonic"
+  },
+  {
+    "team": "NYI",
+    "position": "Defense",
+    "jersey": 42,
+    "name": "Scott Mayfield"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 29,
+    "name": "Brock Nelson"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 51,
+    "name": "Frans Nielsen"
+  },
+  {
+    "team": "BUF",
+    "position": "Right Wing",
+    "jersey": 21,
+    "name": "Kyle Okposo"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Ryan Strome"
+  },
+  {
+    "team": "CHI",
+    "position": "Goalie",
+    "jersey": 50,
+    "name": "Corey Crawford"
+  },
+  {
+    "team": "DET",
+    "position": "Goalie",
+    "jersey": 34,
+    "name": "Petr Mrazek"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 29,
+    "name": "Bryan Bickell"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 56,
+    "name": "Erik Gustafsson"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 38,
+    "name": "Ryan Hartman"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 48,
+    "name": "Vinnie Hinostroza"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 67,
+    "name": "Tanner Kero"
+  },
+  {
+    "team": "MON",
+    "position": "Center",
+    "jersey": 65,
+    "name": "Andrew Shaw"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 57,
+    "name": "Trevor van Riemsdyk"
+  },
+  {
+    "team": "DET",
+    "position": "Left Wing",
+    "jersey": 8,
+    "name": "Justin Abdelkader"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 65,
+    "name": "Danny DeKeyser"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 25,
+    "name": "Mike Green"
+  },
+  {
+    "team": "CHI",
+    "position": "Right Wing",
+    "jersey": 13,
+    "name": "Tomas Jurco"
+  },
+  {
+    "team": "FLA",
+    "position": "Defense",
+    "jersey": 46,
+    "name": "Jakub Kindl"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Niklas Kronwall"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Gustav Nyquist"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 26,
+    "name": "Kyle Quincey"
+  },
+  {
+    "team": "DET",
+    "position": "Left Wing",
+    "jersey": 21,
+    "name": "Tomas Tatar"
+  },
+  {
+    "team": "DET",
+    "position": "Left Wing",
+    "jersey": 40,
+    "name": "Henrik Zetterberg"
+  },
+  {
+    "team": "TB",
+    "position": "Right Wing",
+    "jersey": 23,
+    "name": "J.T. Brown"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 9,
+    "name": "Tyler Johnson"
+  },
+  {
+    "team": "TB",
+    "position": "Right Wing",
+    "jersey": 86,
+    "name": "Nikita Kucherov"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 81,
+    "name": "Jonathan Marchessault"
+  },
+  {
+    "team": "TB",
+    "position": "Center",
+    "jersey": 90,
+    "name": "Vladislav namestnikov"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 89,
+    "name": "Nikita Nesterov"
+  },
+  {
+    "team": "TB",
+    "position": "Left Wing",
+    "jersey": 18,
+    "name": "Ondrej Palat"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 62,
+    "name": "Andrej Sustr"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Luke Witkowski"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Shea Weber"
+  },
+  {
+    "team": "WPG",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Eric Comrie"
+  },
+  {
+    "team": "WPG",
+    "position": "Goalie",
+    "jersey": 34,
+    "name": "Michael Hutchinson"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 7,
+    "name": "Ben Chiarot"
+  },
+  {
+    "team": "WPG",
+    "position": "Left Wing",
+    "jersey": 17,
+    "name": "Adam Lowry"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 71,
+    "name": "Julian Melchiori"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 62,
+    "name": "Nelson Nogier"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 29,
+    "name": "Leon Draisaitl"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 51,
+    "name": "Anton Lander"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 82,
+    "name": "Jordan Oesterle"
+  },
+  {
+    "team": "NYR",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Henrik Lundqvist"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Derick Brassard"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Ryan McDonagh"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 61,
+    "name": "Rick Nash"
+  },
+  {
+    "team": "NYR",
+    "position": "Right Wing",
+    "jersey": 36,
+    "name": "Mats Zuccarello"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 25,
+    "name": "Brandon Carlo"
+  },
+  {
+    "team": "BOS",
+    "position": "Right Wing",
+    "jersey": 11,
+    "name": "Jimmy Hayes"
+  },
+  {
+    "team": "MIN",
+    "position": "Goalie",
+    "jersey": 40,
+    "name": "Devan Dubnyk"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 34,
+    "name": "Tom Kuhnhackl"
+  },
+  {
+    "team": "PIT",
+    "position": "Defense",
+    "jersey": 51,
+    "name": "Derrick Pouliot"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 17,
+    "name": "Bryan Rust"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 49,
+    "name": "Dominik Simon"
+  },
+  {
+    "team": "OTT",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Mike Condon"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Taylor Chorney"
+  },
+  {
+    "team": "MON",
+    "position": "Right Wing",
+    "jersey": 32,
+    "name": "Brian Flynn"
+  },
+  {
+    "team": "DAL",
+    "position": "Goalie",
+    "jersey": 32,
+    "name": "Kari Lehtonen"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Jordie Benn"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 18,
+    "name": "Patrick Eaves"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 83,
+    "name": "Vernon Fiddler"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 28,
+    "name": "Stephen Johns"
+  },
+  {
+    "team": "DAL",
+    "position": "Defense",
+    "jersey": 15,
+    "name": "Patrik Nemeth"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 90,
+    "name": "Jason Spezza"
+  },
+  {
+    "team": "FLA",
+    "position": "Goalie",
+    "jersey": 20,
+    "name": "Reto Berra"
+  },
+  {
+    "team": "CGY",
+    "position": "Defense",
+    "jersey": 54,
+    "name": "Rasmus Andersson"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 86,
+    "name": "Josh Jooris"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 32,
+    "name": "Francois Beauchemin"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 9,
+    "name": "Matt Duchene"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Erik Johnson"
+  },
+  {
+    "team": "NAS",
+    "position": "Left Wing",
+    "jersey": 55,
+    "name": "Cody McLeod"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 7,
+    "name": "John Mitchell"
+  },
+  {
+    "team": "NYI",
+    "position": "Center",
+    "jersey": 53,
+    "name": "Casey Cizikas"
+  },
+  {
+    "team": "LA",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Ben Bishop"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 24,
+    "name": "Brian Boyle"
+  },
+  {
+    "team": "TB",
+    "position": "Right Wing",
+    "jersey": 24,
+    "name": "Ryan Callahan"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Jason Garrison"
+  },
+  {
+    "team": "TB",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Anton Stralman"
+  },
+  {
+    "team": "BOS",
+    "position": "Left Wing",
+    "jersey": 59,
+    "name": "Tim Schaller"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 88,
+    "name": "Brandon Davidson"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Mark Fayne"
+  },
+  {
+    "team": "NJ",
+    "position": "Left Wing",
+    "jersey": 9,
+    "name": "Taylor Hall"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 24,
+    "name": "Brad Hunt"
+  },
+  {
+    "team": "EDM",
+    "position": "Right Wing",
+    "jersey": 15,
+    "name": "Tyler Pitlick"
+  },
+  {
+    "team": "VAN",
+    "position": "Left Wing",
+    "jersey": 47,
+    "name": "Sven Baertschi"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 50,
+    "name": "Brendan Gaunce"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 20,
+    "name": "Brandon Sutter"
+  },
+  {
+    "team": "TOR",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Frederik Andersen"
+  },
+  {
+    "team": "LA",
+    "position": "Defense",
+    "jersey": 53,
+    "name": "Kevin Gravel"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 26,
+    "name": "Joseph Cramarossa"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Cam Fowler"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 15,
+    "name": "Ryan Getzlaf"
+  },
+  {
+    "team": "ANA",
+    "position": "Left Wing",
+    "jersey": 58,
+    "name": "Nicolas Kerdiles"
+  },
+  {
+    "team": "MIN",
+    "position": "Right Wing",
+    "jersey": 7,
+    "name": "Chris Stewart"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 45,
+    "name": "Sami Vatanen"
+  },
+  {
+    "team": "MIN",
+    "position": "Goalie",
+    "jersey": 32,
+    "name": "Alex Stalock"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Zbynek Michalek"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Connor Murphy"
+  },
+  {
+    "team": "ARI",
+    "position": "Left Wing",
+    "jersey": 29,
+    "name": "Brendan Perlini"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 50,
+    "name": "Antoine Vermette"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 74,
+    "name": "Dylan DeMelo"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Brenden Dillon"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 28,
+    "name": "Timo Meier"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 20,
+    "name": "Brandon Saad"
+  },
+  {
+    "team": "CAR",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Jay McClement"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 97,
+    "name": "Connor McDavid"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 55,
+    "name": "Noel Acciari"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 56,
+    "name": "Tommy Cross"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Dan Girardi"
+  },
+  {
+    "team": "NYR",
+    "position": "Defense",
+    "jersey": 18,
+    "name": "Marc Staal"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Marc Methot"
+  },
+  {
+    "team": "OTT",
+    "position": "Right Wing",
+    "jersey": 61,
+    "name": "Mark Stone"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 37,
+    "name": "Justin Dowling"
+  },
+  {
+    "team": "DAL",
+    "position": "Center",
+    "jersey": 20,
+    "name": "Cody Eakin"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 33,
+    "name": "Alex Goligoski"
+  },
+  {
+    "team": "DAL",
+    "position": "Left Wing",
+    "jersey": 10,
+    "name": "Patrick Sharp"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Niklas Hjalmarsson"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 2,
+    "name": "Duncan Keith"
+  },
+  {
+    "team": "BOS",
+    "position": "Goalie",
+    "jersey": 35,
+    "name": "Anton Khudobin"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 7,
+    "name": "Andrew Cogliano"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "Korbinian Holzer"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 17,
+    "name": "Ryan Kesler"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 47,
+    "name": "Hampus Lindholm"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 10,
+    "name": "Corey Perry"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 48,
+    "name": "Michael Sgarbossa"
+  },
+  {
+    "team": "ANA",
+    "position": "Left Wing",
+    "jersey": 33,
+    "name": "Jakob Silfverberg"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Alex Biega"
+  },
+  {
+    "team": "VAN",
+    "position": "Center",
+    "jersey": 53,
+    "name": "Bo Horvat"
+  },
+  {
+    "team": "BOS",
+    "position": "Defense",
+    "jersey": 26,
+    "name": "John-Michael Liles"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 27,
+    "name": "Johnny Oduya"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 71,
+    "name": "Jordan Nolan"
+  },
+  {
+    "team": "DET",
+    "position": "Defense",
+    "jersey": 61,
+    "name": "Xavier Ouellet"
+  },
+  {
+    "team": "ARI",
+    "position": "Goalie",
+    "jersey": 41,
+    "name": "Mike Smith"
+  },
+  {
+    "team": "ARI",
+    "position": "Right Wing",
+    "jersey": 19,
+    "name": "Shane Doan"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 8,
+    "name": "Tobias Rieder"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 55,
+    "name": "Rasmus Ristolainen"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 16,
+    "name": "Andrew Ladd"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 18,
+    "name": "Bryan Little"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 57,
+    "name": "Tyler Myers"
+  },
+  {
+    "team": "WPG",
+    "position": "Defense",
+    "jersey": 4,
+    "name": "Paul Postma"
+  },
+  {
+    "team": "STL",
+    "position": "Right Wing",
+    "jersey": 75,
+    "name": "Ryan Reaves"
+  },
+  {
+    "team": "DAL",
+    "position": "Left Wing",
+    "jersey": 14,
+    "name": "Jamie Benn"
+  },
+  {
+    "team": "DAL",
+    "position": "Right Wing",
+    "jersey": 83,
+    "name": "Ales Hemsky"
+  },
+  {
+    "team": "COL",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Calvin Pickard"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 90,
+    "name": "Marcus Johansson"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 5,
+    "name": "David Schlemko"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Marcus Kruger"
+  },
+  {
+    "team": "STL",
+    "position": "Defense",
+    "jersey": 41,
+    "name": "Robert Bortuzzo"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 12,
+    "name": "Jori Lehtera"
+  },
+  {
+    "team": "LA",
+    "position": "Right Wing",
+    "jersey": 88,
+    "name": "Jarome Iginla"
+  },
+  {
+    "team": "PIT",
+    "position": "Left Wing",
+    "jersey": 62,
+    "name": "Carl Hagelin"
+  },
+  {
+    "team": "ANA",
+    "position": "Defense",
+    "jersey": 3,
+    "name": "Clayton Stoner"
+  },
+  {
+    "team": "CBJ",
+    "position": "Left Wing",
+    "jersey": 33,
+    "name": "Markus Hannikainen"
+  },
+  {
+    "team": "CHI",
+    "position": "Left Wing",
+    "jersey": 72,
+    "name": "Artemi Panarin"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 8,
+    "name": "Cody McCormick"
+  },
+  {
+    "team": "ANA",
+    "position": "Center",
+    "jersey": 44,
+    "name": "Nate Thompson"
+  },
+  {
+    "team": "WAS",
+    "position": "Center",
+    "jersey": 19,
+    "name": "Nicklas Backstrom"
+  },
+  {
+    "team": "TOR",
+    "position": "Right Wing",
+    "jersey": 23,
+    "name": "Eric Fehr"
+  },
+  {
+    "team": "WAS",
+    "position": "Defense",
+    "jersey": 44,
+    "name": "Brooks Orpik"
+  },
+  {
+    "team": "DET",
+    "position": "Center",
+    "jersey": 43,
+    "name": "Darren Helm"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 21,
+    "name": "Patrik Berglund"
+  },
+  {
+    "team": "BUF",
+    "position": "Defense",
+    "jersey": 47,
+    "name": "Zach Bogosian"
+  },
+  {
+    "team": "TB",
+    "position": "Goalie",
+    "jersey": 88,
+    "name": "Andrei Vasilevskiy"
+  },
+  {
+    "team": "PIT",
+    "position": "Right Wing",
+    "jersey": 37,
+    "name": "Carter Rowney"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 32,
+    "name": "Michal Rozsival"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 79,
+    "name": "Dillon Simpson"
+  },
+  {
+    "team": "EDM",
+    "position": "Right Wing",
+    "jersey": 26,
+    "name": "Iiro Pakarinen"
+  },
+  {
+    "team": "MON",
+    "position": "Left Wing",
+    "jersey": 24,
+    "name": "Phillip Danault"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 68,
+    "name": "Melker Karlsson"
+  },
+  {
+    "team": "DAL",
+    "position": "Right Wing",
+    "jersey": 25,
+    "name": "Brett Ritchie"
+  },
+  {
+    "team": "CGY",
+    "position": "Center",
+    "jersey": 25,
+    "name": "Freddie Hamilton"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Petter Granberg"
+  },
+  {
+    "team": "EDM",
+    "position": "Goalie",
+    "jersey": 1,
+    "name": "Laurent Brossoit"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 15,
+    "name": "Duncan Siemens"
+  },
+  {
+    "team": "STL",
+    "position": "Center",
+    "jersey": 71,
+    "name": "Vladimir Sobotka"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 10,
+    "name": "Tom Pyatt"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 63,
+    "name": "Philip Larsen"
+  },
+  {
+    "team": "MON",
+    "position": "Right Wing",
+    "jersey": 47,
+    "name": "Alexander Radulov"
+  },
+  {
+    "team": "VAN",
+    "position": "Right Wing",
+    "jersey": 17,
+    "name": "Anton Rodin"
+  },
+  {
+    "team": "MON",
+    "position": "Left Wing",
+    "jersey": 62,
+    "name": "Artturi Lehkonen"
+  },
+  {
+    "team": "COL",
+    "position": "Left Wing",
+    "jersey": 37,
+    "name": "J.T. Compher"
+  },
+  {
+    "team": "STL",
+    "position": "Left Wing",
+    "jersey": 82,
+    "name": "Zach Sanford"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 40,
+    "name": "John Hayden"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 89,
+    "name": "Pavel Buchnevich"
+  },
+  {
+    "team": "PIT",
+    "position": "Center",
+    "jersey": 59,
+    "name": "Jake Guentzel"
+  },
+  {
+    "team": "CGY",
+    "position": "Goalie",
+    "jersey": 32,
+    "name": "Jon Gillies"
+  },
+  {
+    "team": "SJ",
+    "position": "Center",
+    "jersey": 65,
+    "name": "Daniel O'Regan"
+  },
+  {
+    "team": "NYI",
+    "position": "Right Wing",
+    "jersey": 66,
+    "name": "Joshua Ho-Sang"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 8,
+    "name": "Nick Schmaltz"
+  },
+  {
+    "team": "OTT",
+    "position": "Defense",
+    "jersey": 39,
+    "name": "Andreas Englund"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 88,
+    "name": "Nikita Tryamkin"
+  },
+  {
+    "team": "SJ",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Aaron Dell"
+  },
+  {
+    "team": "LA",
+    "position": "Center",
+    "jersey": 26,
+    "name": "Nic Dowd"
+  },
+  {
+    "team": "NAS",
+    "position": "Center",
+    "jersey": 32,
+    "name": "Frederick Gaudreau"
+  },
+  {
+    "team": "NYI",
+    "position": "Left Wing",
+    "jersey": 48,
+    "name": "Connor Jones"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 42,
+    "name": "Gustav Forsling"
+  },
+  {
+    "team": "NYR",
+    "position": "Left Wing",
+    "jersey": 26,
+    "name": "Jimmy Vesey"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 8,
+    "name": "Zach Werenski"
+  },
+  {
+    "team": "WPG",
+    "position": "Left Wing",
+    "jersey": 81,
+    "name": "Kyle Connor"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 82,
+    "name": "Colin White"
+  },
+  {
+    "team": "VAN",
+    "position": "Right Wing",
+    "jersey": 6,
+    "name": "Brock Boeser"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 23,
+    "name": "Jakob Forsbacka Karlsson"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 53,
+    "name": "Gabriel Carlsson"
+  },
+  {
+    "team": "ANA",
+    "position": "Right Wing",
+    "jersey": 86,
+    "name": "Ondrej Kase"
+  },
+  {
+    "team": "CAR",
+    "position": "Left Wing",
+    "jersey": 20,
+    "name": "Sebastian Aho"
+  },
+  {
+    "team": "MIN",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Joel Eriksson Ek"
+  },
+  {
+    "team": "WPG",
+    "position": "Center",
+    "jersey": 52,
+    "name": "Jack Roslovic"
+  },
+  {
+    "team": "NAS",
+    "position": "Defense",
+    "jersey": 73,
+    "name": "Alexandre Carrier"
+  },
+  {
+    "team": "BOS",
+    "position": "Center",
+    "jersey": 52,
+    "name": "Sean Kuraly"
+  },
+  {
+    "team": "EDM",
+    "position": "Defense",
+    "jersey": 83,
+    "name": "Matt Benning"
+  },
+  {
+    "team": "WPG",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Brandon Tanev"
+  },
+  {
+    "team": "ANA",
+    "position": "Goalie",
+    "jersey": 68,
+    "name": "Kevin Boyle"
+  },
+  {
+    "team": "CHI",
+    "position": "Center",
+    "jersey": 64,
+    "name": "Tyler Motte"
+  },
+  {
+    "team": "PIT",
+    "position": "Goalie",
+    "jersey": 31,
+    "name": "Sean Maguire"
+  },
+  {
+    "team": "EDM",
+    "position": "Goalie",
+    "jersey": 34,
+    "name": "Nick Ellis"
+  },
+  {
+    "team": "VAN",
+    "position": "Defense",
+    "jersey": 51,
+    "name": "Troy Stecher"
+  },
+  {
+    "team": "TOR",
+    "position": "Defense",
+    "jersey": 22,
+    "name": "Nikita Zaitsev"
+  },
+  {
+    "team": "CBJ",
+    "position": "Defense",
+    "jersey": 65,
+    "name": "Markus Nutivaara"
+  },
+  {
+    "team": "EDM",
+    "position": "Center",
+    "jersey": 36,
+    "name": "Drake Caggiula"
+  },
+  {
+    "team": "SJ",
+    "position": "Right Wing",
+    "jersey": 20,
+    "name": "Marcus Sorensen"
+  },
+  {
+    "team": "SJ",
+    "position": "Defense",
+    "jersey": 72,
+    "name": "Tim Heed"
+  },
+  {
+    "team": "CHI",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Michal Kempny"
+  },
+  {
+    "team": "COL",
+    "position": "Defense",
+    "jersey": 54,
+    "name": "Anton Lindholm"
+  },
+  {
+    "team": "CGY",
+    "position": "Goalie",
+    "jersey": 33,
+    "name": "David Rittich"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 34,
+    "name": "Auston Matthews"
+  },
+  {
+    "team": "WPG",
+    "position": "Right Wing",
+    "jersey": 29,
+    "name": "Patrik Laine"
+  },
+  {
+    "team": "CGY",
+    "position": "Left Wing",
+    "jersey": 19,
+    "name": "Matthew Tkachuk"
+  },
+  {
+    "team": "MON",
+    "position": "Defense",
+    "jersey": 22,
+    "name": "Mikhail Sergachev"
+  },
+  {
+    "team": "ARI",
+    "position": "Defense",
+    "jersey": 6,
+    "name": "Jakob Chychrun"
+  },
+  {
+    "team": "COL",
+    "position": "Center",
+    "jersey": 27,
+    "name": "Tyson Jost"
+  },
+  {
+    "team": "ARI",
+    "position": "Center",
+    "jersey": 14,
+    "name": "Clayton Keller"
+  },
+  {
+    "team": "ANA",
+    "position": "Left Wing",
+    "jersey": 46,
+    "name": "Max Jones"
+  },
+  {
+    "team": "PHI",
+    "position": "Center",
+    "jersey": 13,
+    "name": "Roman Lyubimov"
+  },
+  {
+    "team": "FLA",
+    "position": "Center",
+    "jersey": 62,
+    "name": "Denis Malgin"
+  },
+  {
+    "team": "TOR",
+    "position": "Center",
+    "jersey": 16,
+    "name": "Mitchell Marner"
+  },
+  {
+    "team": "CHI",
+    "position": "Goalie",
+    "jersey": 30,
+    "name": "Jeff Glass"
+  },
+  {
+    "team": "NJ",
+    "position": "Center",
+    "jersey": 58,
+    "name": "Kevin Rooney"
+  },
+  {
+    "team": "OTT",
+    "position": "Center",
+    "jersey": 49,
+    "name": "Christopher DiDomenico"
+  },
+  {
+    "team": "NJ",
+    "position": "Defense",
+    "jersey": 32,
+    "name": "Michael Kapla"
+  },
+  {
+    "team": "VAN",
+    "position": "Left Wing",
+    "jersey": 13,
+    "name": "Griffen Molino"
+  },
+  {
+    "team": "BUF",
+    "position": "Left Wing",
+    "jersey": 49,
+    "name": "C.J. Smith"
+  },
+  {
+    "team": "PHI",
+    "position": null,
+    "jersey": 74,
+    "name": "Mike Vecchione"
+  },
+  {
+    "team": "BUF",
+    "position": "Center",
+    "jersey": 42,
+    "name": "Sean Malone"
+  }
+]
