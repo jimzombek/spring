@@ -12,6 +12,7 @@
     <springBootStarterVersion>1.5.6.RELEASE</springBootStarterVersion>
     <springBootStarterWebVersion>1.5.6.RELEASE</springBootStarterWebVersion>
     <springBootStarterActuator>1.5.6.RELEASE</springBootStarterActuator>
+    <springCloudConfigClientVersion>1.3.3.RELEASE</springCloudConfigClientVersion>
   </properties>
      
   <dependencies>
@@ -35,6 +36,14 @@
       <artifactId>spring-boot-starter-actuator</artifactId>
       <version>${springBootStarterActuator}</version>
     </dependency>
+            
+    <dependency>
+      <groupId>org.springframework.cloud</groupId>
+      <artifactId>spring-cloud-config-client</artifactId>
+      <version>${springCloudConfigClientVersion}</version>
+    </dependency>
+    
+    
   </dependencies>
   
 <!--   <scm> -->
